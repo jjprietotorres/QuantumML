@@ -1,0 +1,16 @@
+include MANIFEST.in
+include README.md
+include pyproject.toml
+recursive-include qiskit_aer *cpp
+recursive-include qiskit_aer *hpp
+graft src
+graft contrib
+include qiskit_aer/backends/wrappers/CMakeLists.txt
+include qiskit_aer/backends/wrappers/bindings.cc
+include qiskit_aer/VERSION.txt
+include qiskit_aer/library/instructions_table.csv
+include CMakeLists.txt
+include cmake/*.cmake
+# Exclude static libraries (they are all compressed with 7z)
+exclude src/third-party/*/lib/*.a
+exclude src/third-party/*/lib/*.lib

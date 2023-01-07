@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+fastdtw/__init__.py
+fastdtw/_fastdtw.cpp
+fastdtw/_fastdtw.pyx
+fastdtw/fastdtw.py
+fastdtw.egg-info/PKG-INFO
+fastdtw.egg-info/SOURCES.txt
+fastdtw.egg-info/dependency_links.txt
+fastdtw.egg-info/requires.txt
+fastdtw.egg-info/top_level.txt
