@@ -134,6 +134,8 @@ quantumml_venv
 #vscode
 .vscode
 
+.DS_Store
+
 #data
 data
 
