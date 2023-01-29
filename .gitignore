@@ -141,3 +141,6 @@ data
 
 # nohup.out etc
 *.out
+
+# src/*.out
+src/*.out
