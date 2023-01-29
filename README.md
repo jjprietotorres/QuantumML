@@ -46,13 +46,9 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Features](#dart-features)
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
   * [Run Locally](#running-run-locally)
-(#triangular_flag_on_post-deployment)
 - [Usage](#eyes-usage)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
